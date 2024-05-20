@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="num1_place">Num1</string>
+    <string name="num2_place">Num2</string>
+    <string name="op_place">Op</string>
+    <string name="button">Calculate</string>
+    <string name="result">Result = 0</string>
+</resources>
